@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/newtz/static/css/main.909879ac.css",
+    "main.js": "/newtz/static/js/main.c24ae451.js",
+    "static/js/787.f222f379.chunk.js": "/newtz/static/js/787.f222f379.chunk.js",
+    "index.html": "/newtz/index.html",
+    "main.909879ac.css.map": "/newtz/static/css/main.909879ac.css.map",
+    "main.c24ae451.js.map": "/newtz/static/js/main.c24ae451.js.map",
+    "787.f222f379.chunk.js.map": "/newtz/static/js/787.f222f379.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.909879ac.css",
+    "static/js/main.c24ae451.js"
+  ]
+}
